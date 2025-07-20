@@ -6,13 +6,15 @@ From basic sensor experiments to more complex systems, every project here reflec
 
 ## 🚀 Projects
 
-| Project Name           | Description                                                                 | Folder                        |
-|------------------------|-----------------------------------------------------------------------------|-------------------------------|
-| Radar System           | Radar-style obstacle detection using Ultrasonic sensor and Arduino Uno      | `/radar-system`              |
-| Bluetooth Car          | Remotely controlled car via Bluetooth (HC-05) with Arduino and motor driver | `/bluetooth-car`             |
-| Spy Car                | Wireless spy car with ESP32-CAM, Arduino Uno, and HC-05                     | `/spy-car`                   |
-| Follow Me Robot        | Robot that follows and avoids using IR sensor, sonar, and motor driver      | `/follow-me-robot`           |
-| Smart Dustbin          | Auto-opening dustbin using Ultrasonic sensor, Servo motor, and Arduino Nano | `/smart-dustbin`             |
+| Project Name         | Description                                                                                     | Folder                  | Year |
+|----------------------|-------------------------------------------------------------------------------------------------|--------------------------|------|
+| Radar System          | Radar-style obstacle detection using Ultrasonic sensor and Arduino Uno                         | `/radar-system`         | 2020 |
+| Smart Dustbin         | Auto-opening dustbin using Ultrasonic sensor, Servo motor, and Arduino Nano                    | `/smart-dustbin`        | 2020 |
+| Bluetooth Car         | Remotely controlled car via Bluetooth (HC-05) with Arduino and motor driver                    | `/bluetooth-car`        | 2021 |
+| Spy Car               | Wireless spy car with ESP32-CAM, Arduino Uno, and HC-05                                        | `/spy-car`              | 2022 |
+| Follow Me Robot       | Robot that follows and avoids using IR sensor, sonar, and motor driver                         | `/follow-me-robot`      | 2022 |
+| Roommate Annoyer      | Detects roommate presence, plays preloaded sarcastic audio via speaker, captures reaction photo | `/roommate-annoyer`     | 2023 |
+
 
 
 
