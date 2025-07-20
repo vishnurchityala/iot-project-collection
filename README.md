@@ -14,10 +14,3 @@ From basic sensor experiments to more complex systems, every project here reflec
 | Spy Car               | Wireless spy car with ESP32-CAM, Arduino Uno, and HC-05                                        | `/spy-car`              | 2022 |
 | Follow Me Robot       | Robot that follows and avoids using IR sensor, sonar, and motor driver                         | `/follow-me-robot`      | 2022 |
 | Roommate Annoyer      | Detects roommate presence, plays preloaded sarcastic audio via speaker, captures reaction photo | `/roommate-annoyer`     | 2023 |
-
-
-
-
-## 📚 Why This Repo?
-
-Curiosity is the best teacher. This repo is where I document, organize, and reflect on all the cool stuff I build, break, and fix using Arduino. If you're just as curious, feel free to explore or build upon any of these projects!
