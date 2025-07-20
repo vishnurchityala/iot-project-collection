@@ -35,7 +35,7 @@ The idea came from pure curiosity — to prank my roommate when I’m not around
 ![Arduino Code](./cpp-rommateannyor.png)
 
 ### Python Script
-![Python Code](./assets/python-rmanyor.png)
+![Python Code](./python-rmanyor.png)
 
 ---
 
