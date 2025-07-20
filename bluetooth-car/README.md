@@ -1,4 +1,4 @@
-# 🚗 Bluetooth Car – Arduino + HC-05 + Motor Driver
+# Bluetooth Car
 
 This project is a simple Bluetooth-controlled car using an **Arduino Uno**, **HC-05 Bluetooth module**, and an **L298N motor driver**. The car is remotely controlled via a smartphone using a Bluetooth controller app.
 
